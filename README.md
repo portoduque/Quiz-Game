@@ -8,7 +8,7 @@ This game is a general knowledge quiz where you'll be challenged with true-false
 * [Pyhton](https://www.python.org/downloads/)
 ***
 ## Usage example
-
+![part1](https://user-images.githubusercontent.com/37813839/115130125-31ed3380-9fc3-11eb-9ec5-bc9dfd945718.gif)
 
 ## How to play
 1. [Click Here](https://replit.com/@portoduque/Quiz-Game)
